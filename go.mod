@@ -27,6 +27,7 @@ require (
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.5.1 // indirect
 	github.com/yuin/goldmark v1.1.30 // indirect
+	go.mongodb.org/mongo-driver v1.3.2 // indirect
 	go.opencensus.io v0.22.3 // indirect
 	go.uber.org/zap v1.14.1 // indirect
 	golang.org/x/crypto v0.0.0-20200422194213-44a606286825 // indirect
